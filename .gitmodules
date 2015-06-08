@@ -1,0 +1,3 @@
+[submodule "osip"]
+	path = osip
+	url = git://git.savannah.gnu.org/osip.git
